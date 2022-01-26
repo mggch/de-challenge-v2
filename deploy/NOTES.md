@@ -26,7 +26,7 @@ INSTALACION:
 	1- Copiar archivos en el directorio de la instalaciòn de Python (Por ejemplo C:\Python37)
 	2- Debe quedar los archivos de la siguiente manera, por ejemplo:
 		
-		/Python37
+	/Python37
 		ETL_SEASON.bat
 			/src
 				ETL0_SEASON.py
